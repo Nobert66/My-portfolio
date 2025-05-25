@@ -1,0 +1,15 @@
+{
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "onWindowChange",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true
+  },
+  "emmet.includeLanguages": {
+    "javascript": "html"
+  },
+  "workbench.startupEditor": "none",
+  "terminal.integrated.fontSize": 14
+}
